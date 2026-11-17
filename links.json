@@ -1,0 +1,48 @@
+{
+  "title": "Vibe Concreta",
+  "kicker": "Style",
+  "bio": "Se você ama decoração, organização e boas oportunidades, você está no lugar certo!",
+  "cover": "",
+  "avatar": "",
+  "theme": "retro",
+  "footer": "feito com carinho",
+  "socials": [
+    {
+      "type": "instagram",
+      "url": "https://instagram.com/seu-usuario"
+    },
+    {
+      "type": "whatsapp",
+      "url": "https://wa.me/5519999999999"
+    }
+  ],
+  "links": [
+    {
+      "type": "header",
+      "title": "links",
+      "subtitle": "filtre pela categoria que deseja :)"
+    },
+    {
+      "type": "card",
+      "title": "Luminária de chão",
+      "url": "https://s.shopee.com.br/30pcSzztz7",
+      "category": "sala",
+      "image": "https://cookie-iridium-59a.notion.site/image/attachment%3Aaa817d20-68df-45f4-a473-82b3ee975cfe%3AA0687A14-06B5-40FA-B200-8C5E2B1E6524.png?table=block&id=3fe5dc77-f296-80f5-9697-c694deab1218&spaceId=9c45dc77-f296-8198-b961-000371a2aa6a&width=680&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl"
+    },
+    {
+      "type": "card",
+      "title": "Rack",
+      "url": "https://s.shopee.com.br/40i9fK5Ugz",
+      "category": "sala",
+      "image": "https://cookie-iridium-59a.notion.site/image/attachment%3Adae1c35c-7043-4981-a697-6f60bf70aa73%3AC6F70A8E-2FC4-4231-B8D2-726AEF847211.png?table=block&id=3fe5dc77-f296-802a-880e-cebcb7da3086&spaceId=9c45dc77-f296-8198-b961-000371a2aa6a&width=680&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl"
+    },
+    {
+      "type": "card",
+      "title": "Poltrona",
+      "url": "https://s.shopee.com.br/1W0ogtOVyG",
+      "category": "sala",
+      "image": "https://cookie-iridium-59a.notion.site/image/attachment%3A085cc844-addb-429b-8b71-173c80456688%3AE8FB1323-EDEE-4B39-9983-0AFFEC3A3E91.png?table=block&id=3ff5dc77-f296-8028-8bac-da3de8f1052c&spaceId=9c45dc77-f296-8198-b961-000371a2aa6a&width=680&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+      "highlight": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Links</title>
+<meta name="description" content="Meus links">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,600;1,9..144,700&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app"></div>
+<noscript>Ative o JavaScript para ver os links.</noscript>
+<script src="app.js"></script>
+<script>
+fetch('links.json',{cache:'no-cache'}).then(r=>r.json()).then(c=>{
+  render(c,document.getElementById('app'));
+  const d=document.querySelector('meta[name=description]');d.content=c.bio||'';
+}).catch(()=>{document.getElementById('app').innerHTML='<main><p>Não foi possível carregar links.json.</p></main>'});
+</script>
+</body>
+</html>
