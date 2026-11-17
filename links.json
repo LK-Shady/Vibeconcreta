@@ -8,8 +8,8 @@
   "footer": "feito com carinho",
   "socials": [
     {
-      "type": "instagram",
-      "url": "https://instagram.com/seu-usuario"
+      "type": "tiktok",
+      "url": "https://www.tiktok.com/@vibeconcreta"
     },
     {
       "type": "whatsapp",
@@ -24,25 +24,33 @@
     },
     {
       "type": "card",
-      "title": "Luminária de chão",
-      "url": "https://s.shopee.com.br/30pcSzztz7",
+      "title": "Poltrona Serena",
+      "url": "https://s.shopee.com.br/1C1zPCVgb",
       "category": "sala",
-      "image": "https://cookie-iridium-59a.notion.site/image/attachment%3Aaa817d20-68df-45f4-a473-82b3ee975cfe%3AA0687A14-06B5-40FA-B200-8C5E2B1E6524.png?table=block&id=3fe5dc77-f296-80f5-9697-c694deab1218&spaceId=9c45dc77-f296-8198-b961-000371a2aa6a&width=680&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl"
+      "image": "https://raw.githubusercontent.com/LK-Shady/Vibeconcreta/refs/heads/main/image-007.jpeg"
     },
     {
       "type": "card",
-      "title": "Rack",
-      "url": "https://s.shopee.com.br/40i9fK5Ugz",
+      "title": "Sofa  Verde Oliva",
+      "url": "https://s.shopee.com.br/W8IaKAbfi",
       "category": "sala",
-      "image": "https://cookie-iridium-59a.notion.site/image/attachment%3Adae1c35c-7043-4981-a697-6f60bf70aa73%3AC6F70A8E-2FC4-4231-B8D2-726AEF847211.png?table=block&id=3fe5dc77-f296-802a-880e-cebcb7da3086&spaceId=9c45dc77-f296-8198-b961-000371a2aa6a&width=680&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl"
+      "highlight": true,
+      "image": "https://raw.githubusercontent.com/LK-Shady/Vibeconcreta/refs/heads/main/image-003.jpeg"
     },
     {
       "type": "card",
-      "title": "Poltrona",
-      "url": "https://s.shopee.com.br/1W0ogtOVyG",
-      "category": "sala",
-      "image": "https://cookie-iridium-59a.notion.site/image/attachment%3A085cc844-addb-429b-8b71-173c80456688%3AE8FB1323-EDEE-4B39-9983-0AFFEC3A3E91.png?table=block&id=3ff5dc77-f296-8028-8bac-da3de8f1052c&spaceId=9c45dc77-f296-8198-b961-000371a2aa6a&width=680&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
-      "highlight": false
+      "title": "Rack para TV verde",
+      "url": "https://s.shopee.com.br/LosO1BF0h",
+      "image": "https://raw.githubusercontent.com/LK-Shady/Vibeconcreta/refs/heads/main/image-009.jpeg",
+      "highlight": true,
+      "category": "sala"
+    },
+    {
+      "type": "card",
+      "title": "Comoda Ditalia Verde Oliva",
+      "url": "https://s.shopee.com.br/AAIo65Zo3c",
+      "image": "https://raw.githubusercontent.com/LK-Shady/Vibeconcreta/refs/heads/main/image-006.jpeg",
+      "category": "sala"
     }
   ]
 }
